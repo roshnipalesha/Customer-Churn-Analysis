@@ -93,5 +93,5 @@ This analysis equips telecom companies with clear visibility into which customer
 
 ## 📬 Contact
 
-For feedback or collaboration opportunities, feel free to reach out via [LinkedIn](https://www.linkedin.com) or open an issue in this repo.
+For feedback or collaboration opportunities, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/roshni-palesha) or open an issue in this repo.
 
