@@ -79,12 +79,6 @@ To understand why customers leave (churn), identify high-risk segments, and prov
 
 ---
 
-## 📂 Project Structure
-
-
-
----
-
 ## 🚀 Results
 
 This analysis equips telecom companies with clear visibility into which customers are at highest risk of churning, and provides evidence-backed strategies to mitigate losses through targeted engagement, plan design, and service offerings.
